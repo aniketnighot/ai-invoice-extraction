@@ -1,0 +1,33 @@
+Subject: Invoice #INV-2024-045 from Globex Solutions - IT Consulting Services
+From: accounts@globex.com
+To: finance@clientco.com
+Date: February 10, 2025
+
+Dear Finance Team,
+
+Please find attached invoice INV-2024-045 for IT consulting services provided during January 2025. The services include:
+
+- Cloud infrastructure assessment and recommendations (25 hours)
+- Kubernetes cluster optimization (15 hours)
+- Security audit and compliance review (10 hours)
+
+The total amount due is €8,750.00 EUR, based on an hourly rate of €250 for 35 hours of consulting work.
+
+Payment Details:
+- Invoice Number: INV-2024-045
+- Amount Due: €8,750.00 EUR
+- Due Date: March 12, 2025 (Net 30 terms)
+- Payment Methods: Bank transfer (details attached)
+
+Please note that late payments will incur an interest charge of 2% per month. Early payments within 7 days qualify for a 5% discount.
+
+For any questions, feel free to contact our accounts department.
+
+Best regards,
+
+Martin Schneider
+Accounts Payable
+Globex Solutions
+Email: accounts@globex.com
+Phone: +49 6221 123456
+www.globex.com
